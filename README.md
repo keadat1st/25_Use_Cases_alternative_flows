@@ -11,5 +11,8 @@ Materialer fra undervisningen d. 19-03-2018
 
 [Slides fra sidste gang](https://github.com/keadat1st/27_Use_Cases_alternative_flows/blob/master/ClassDiagramMultiplicity.pdf)
 
+## Exercise
+* [Exercise: Use Cases Alternative flow](https://docs.google.com/document/d/e/2PACX-1vRb6xzpwMIRY2QGz-wMkYnkSPugzhOz-ej3RMwv_x5se1XyQI9d5nQeOrcaIUfDKC6WdgmB6bop9nZU/pub)
+
 
 
